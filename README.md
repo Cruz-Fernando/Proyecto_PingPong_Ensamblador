@@ -1,6 +1,6 @@
 # 🏓 Ping-Pong en MASM
 
-Un clásico juego de **Ping-Pong** implementado en **ensamblador x86 (MASM)** para DOS.
+Un clásico juego de **Ping-Pong** implementado en **ensamblador x86 (MASM)**.
 
 ## 📋 Descripción
 
@@ -13,7 +13,7 @@ Este proyecto es un juego interactivo de Ping-Pong donde dos jugadores compiten 
 - **S** o **6** - Mover paleta hacia **abajo**
 
 ### Jugador Derecho (Paleta Derecha)
-- *(Actualmente no funciona debido a un bug conocido)*
+- *(Actualmente no funciona debido a un bug conocido y se tendra listo para la semana 5)*
 
 ## 🚀 Características
 
@@ -21,7 +21,7 @@ Este proyecto es un juego interactivo de Ping-Pong donde dos jugadores compiten 
 ✅ Paletas controlables por teclado
 ✅ Física de bola con colisiones
 ✅ Sistema de puntuación
-✅ Menú de fin de juego
+✅ Menú game over
 ✅ Pantalla introductoria
 
 ## 🐛 Bugs Conocidos
@@ -122,7 +122,7 @@ Loop Principal
 
 ## 👨‍💻 Autor
 
-**Jhojan Cruz**
+**JHOJAN CRUZ**
 
 ## 🔗 Repositorio
 

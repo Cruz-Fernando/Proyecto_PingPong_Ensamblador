@@ -13,7 +13,7 @@
 ; 5. Falta mejorar detección de colisiones en bordes
 ; 6. Falta agregar mas velocidad a la bola con el tiempo
 ; 7. Falta agregar un menú inicial
-; 8. Falta agregar un README con instrucciones
+; 8. Falta mejorar el README del proyecto 
 ; 9. Falta agregar un reinicio despues del juego
 ;
 ; ********************************************
