@@ -8,21 +8,21 @@ Este proyecto es un juego interactivo de Ping-Pong donde dos jugadores compiten 
 
 ## 🎮 Controles
 
-### Jugador Izquierdo (Paleta Izquierda)
+### Jugador Izquierdo (Paleta Izquierda)❇️
 - **W** o **4** - Mover paleta hacia **arriba**
 - **S** o **6** - Mover paleta hacia **abajo**
 
-### Jugador Derecho (Paleta Derecha)
+### Jugador Derecho (Paleta Derecha)🚫
 - *(Actualmente no funciona debido a un bug conocido y se tendra listo para la semana 5)*
 
 ## 🚀 Características
 
-✅ Interfaz gráfica en modo 13h (320x200 píxeles)
-✅ Paletas controlables por teclado
-✅ Física de bola con colisiones
-✅ Sistema de puntuación
-✅ Menú game over
-✅ Pantalla introductoria
+✅ Interfaz gráfica en modo 13h (320x200 píxeles)                                               
+✅ Paletas controlables por teclado                                          
+✅ Física de bola con colisiones                                                 
+✅ Sistema de puntuación                                                      
+✅ Menú game over																																																																						
+✅ Pantalla introductoria																																																														
 
 ## 🐛 Bugs Conocidos
 
@@ -122,7 +122,7 @@ Loop Principal
 
 ## 👨‍💻 Autor
 
-**JHOJAN CRUZ**
+**JHOJAN CRUZ 🥷🏻**
 
 ## 🔗 Repositorio
 
