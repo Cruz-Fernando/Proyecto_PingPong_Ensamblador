@@ -1,7 +1,6 @@
 ; ===========================================================
 ; ************  PROYECTO PING-PONG - Jhojan Cruz *************
 ; ===========================================================
-;
 ; ************  LISTA DE BUGS ***************
 ; 1. Movimiento de paletas algo lento
 ; 2. Mostrar puntaje correctamente - ✓ RESUELTO
@@ -9,10 +8,9 @@
 ; 4. Falta mejorar colisiones en bordes
 ; 5. Falta agregar más velocidad a la bola
 ; 6. Falta menú inicial - ✓ RESUELTO
-; 7. Mejorar README
-; 8. Bug del temporizador - ✓ RESUELTO
-; 9. ASCII Art en menús - ✓ RESUELTO
-; 10. Modo Supervivencia - ✓ RESUELTO
+; 7. Bug del temporizador - ✓ RESUELTO
+; 8. ASCII Art en menús - ✓ RESUELTO
+; 9. Modo Supervivencia - ✓ RESUELTO
 ;
 ; ********************************************
 
