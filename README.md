@@ -2,9 +2,8 @@
 
 <div align="center">
 
- O          P I N G   P O N G          O
- |                                     |
-/ \            o                      / \
+         P I N G   P O N G          
+                                
 
 **Un homenaje al Pong original, recreado con la austeridad y la fuerza del ensamblador x86 (TASM).**
 
